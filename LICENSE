@@ -1,0 +1,16 @@
+Copyright (c) 2024 SuperTheUnderDog
+
+This license applies to all the files in this repository, unless a license for a specific file or group of files in the repository says otherwise. This license does not cover files from outside this repository.
+The term "mod" or "mods" in this license refers to the software meant to modify gameplay - specifically for this repository, it generally means a dll file or files available to download that can be used along with BepInEx to modify Roots of Pacha gameplay.
+Individual mods may come with a slightly modified version of this license to not cover the rest of the repository, for ease of distribution. In that case, they will be included in the download but may not be made easily viewable before downloading or unzipping some file.
+
+The mods are made available AS IS and with NO WARRANTY made. This also, but not exclusively, means that while I intend to put out playable mods, they might not work, not be kept up to date, or cause bugs or other issues. In no event shall the author/copyright holder (be it myself, aka SuperTheUnderDog, or a collaborator) be liable for any claim, damages, or other liability in relation to the use or dealing in mods or other software under this license.
+You are granted the none-transferable right to download and use the mods made available here to modify your gameplay.
+Distribution of these mods not directly through this repository is only allowed with the attached, unmodified, up-to-date license and README files.
+
+Some mods are made with the intention to be used along with other mods or assets outside of them. In general, using one of my mods does not mean you cannot use another- though compatibility is not guranteed.
+Making separate mods, that do not include the files provided here (in full or in part) but are intended to work with them, is also allowed. Decompiling or 'reverse engineering' the mods under this license for the purpose of learning or creating other mods to work with them is allowed. However, such separate software is not endorsed by this copyright holder and may not be presented as such, barring some other agreement not covered under this license.
+
+Any mod in the repository that transmits or collects data beyond affecting the game save will clearly have it stated in the README file for such mods, along with the reason for this data transmition.
+
+This license may be updated in the future. Changes to the license do not affect you retroactively, but will take effect if you download any of the mods in this repository after such an update (so long as this license covers it).

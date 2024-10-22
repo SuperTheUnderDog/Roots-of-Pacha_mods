@@ -2,11 +2,11 @@
 Version: 1.0.0
 
 ## Description
-The mod allows easily changing textures without replacing any actual game files, allowing to easily switch them on/off and to be unaffected by file verification through steam.
-To use the mod, run the game once after installing. A folder will be created under the plugins folder (same location as where the dll is) to put your alternative BUNDLE files in.
-Changes are client-side only, meaning that in a multiplayer game your changes do not affect other players and are not affected by other players.
+The mod allows easily changing textures without replacing any actual game files, allowing to easily switch them on/off and to be unaffected by file verification through steam.<br />
+To use the mod, run the game once after installing. A folder will be created under the plugins folder (same location as where the dll is) to put your alternative BUNDLE files in.<br />
+Changes are client-side only, meaning that in a multiplayer game your changes do not affect other players and are not affected by other players.<br />
 
-Compatible with game version: 1.2.0 (5)
+Compatible with game version: 1.2.0 (5)<br />
 (Should work with versions 1.0.0+ but not necissarily tested)
 
 ## How to Install

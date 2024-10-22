@@ -7,6 +7,7 @@ You can find out more about each mod in their own readme file.
 
 ## The mods:
 - [PortraitSwapper](./PortraitSwapper)
+- [LongerDays](./LongerDays)
 
 ## Reporting Bugs
 If you find bugs with any of the mods that is not yet listed (make sure to check their README!), feel free to check out the official Roots of Pacha discord server's mods section and find me there. I'm more likely to see it than here on GitHub, and others may be able to help as well!

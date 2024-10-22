@@ -1,0 +1,16 @@
+Copyright (c) 2024 SuperTheUnderDog
+
+The term "mod" or "mods" in this license refers to the software meant to modify gameplay. When without context, "mod" or "this mod" refers specifically to the software covered by this license.
+This mod is meant to modify gameplay - specifically when used along with BepInEx to modify Roots of Pacha gameplay.
+
+This mod is made available AS IS and with NO WARRANTY made. This also, but not exclusively, means that while the intention is for the mod to be playable, it might not work, not be kept up to date, or cause bugs or other issues. In no event shall the author/copyright holder (be it myself, aka SuperTheUnderDog, or a collaborator) be liable for any claim, damages, or other liability in relation to the use or dealing in the mod or other software under this license.
+You are granted the none-transferable right to download and use the mods made available here to modify your gameplay.
+Distribution of the mod not directly through this repository is only allowed along with this license and the README file, unmodified and up-to-date.
+
+Some mods are made with the intention to be used along with other mods or assets outside of them. In general, using this mod does not mean you cannot use another- though compatibility is not guranteed.
+Making separate mods, that do not include the software provided here (in full or in part) but are intended to work with it, is also allowed. Decompiling or 'reverse engineering' this mod for the purpose of learning or creating other mods to work with this mod is allowed. However, such separate software is not endorsed by this copyright holder and may not be presented as such, barring some other agreement not covered under this license.
+
+This mod does not collect or transmit any data over the internet, beyond possibly affecting the game save. BepInEx may transmit information about this mod, such as its version and ID.
+This mod MAY transmit data in a future update (see README).
+
+This license may be updated in the future. Changes to the license do not affect you retroactively, but will take effect if you download this mod again after such an update.
